@@ -1,0 +1,16 @@
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\circle_tap.Form1.resources
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerry.csproj.GenerateResource.cache
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerry.AssemblyInfoInputs.cache
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerry.AssemblyInfo.cs
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerry.csproj.CoreCompileInputs.cache
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerry.genruntimeconfig.cache
+C:\Users\Adir\Desktop\circletap\circle_tap\bin\Debug\netcoreapp3.1\circle_tap.exe
+C:\Users\Adir\Desktop\circletap\circle_tap\bin\Debug\netcoreapp3.1\circle_tap.deps.json
+C:\Users\Adir\Desktop\circletap\circle_tap\bin\Debug\netcoreapp3.1\circle_tap.runtimeconfig.json
+C:\Users\Adir\Desktop\circletap\circle_tap\bin\Debug\netcoreapp3.1\circle_tap.runtimeconfig.dev.json
+C:\Users\Adir\Desktop\circletap\circle_tap\bin\Debug\netcoreapp3.1\circle_tap.dll
+C:\Users\Adir\Desktop\circletap\circle_tap\bin\Debug\netcoreapp3.1\circle_tap.pdb
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\circle_tap.Properties.Resources.resources
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\circle_tap.dll
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\circle_tap.pdb

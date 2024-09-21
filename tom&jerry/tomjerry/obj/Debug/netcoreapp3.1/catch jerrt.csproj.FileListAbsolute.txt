@@ -1,0 +1,8 @@
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerrt.csproj.AssemblyReference.cache
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\circle_tap.Form1.resources
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch_jerrt.Properties.Resources.resources
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerrt.csproj.GenerateResource.cache
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerrt.AssemblyInfoInputs.cache
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerrt.AssemblyInfo.cs
+C:\Users\Adir\Desktop\circletap\circle_tap\obj\Debug\netcoreapp3.1\catch jerrt.csproj.CoreCompileInputs.cache
